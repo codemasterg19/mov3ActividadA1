@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "177460389221",
+    "firebase_url": "https://moviles-2-23c17-default-rtdb.firebaseio.com",
+    "project_id": "moviles-2-23c17",
+    "storage_bucket": "moviles-2-23c17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177460389221:android:afaf743b4e6fbab057ad8c",
+        "android_client_info": {
+          "package_name": "com.example.notas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEWCx7jZxY2rMYUZS5BzK9dcarcn_eV-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
